@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(234,234,234);
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px;
+    margin-top: 0px;
+    background-color: rgb(234,234,234);
+}
+h1{
+    margin-top: 0px;
+}
+
+header{
+    font-weight: bold;
+    background-color: white;
+    height: 36px;
+    padding: 6px 0px 6px 0px;
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.post{
+    background-color: white;
+    margin-top:45px;
+    
+}
+
+.head{
+    background-color: white;
+    display: flex;
+    width: 400px;
+    height: 50;
+    padding: 0px;
+}
+
+.title{
+    width: 80%;
+    padding:0px 8px 5px 8px;
+}
+
+.title h2{
+    font-size: 20px;
+    font-weight: bold;
+    margin: none;
+}
+.date{
+    font-size: 20px;
+    float: right;
+    padding: 0px 15px 0px 15px;
+    color: #eaeaea;
+}
+.photo{
+    padding-bottom: 2px;
+    border-bottom: 1px solid rgb(234,234,234);
+}
+.comment{
+    font-size: 11px;
+    padding: 0px 8px 5px 8px;
+}
